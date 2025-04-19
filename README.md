@@ -1,5 +1,7 @@
 # CNN for Breast Density Classification from Mammograms
 
+Full documentation is included in `Statistike.pdf
+
 ---
 
 ## Dataset
