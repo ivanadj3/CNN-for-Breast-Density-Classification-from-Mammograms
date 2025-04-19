@@ -1,7 +1,5 @@
 # CNN for Breast Density Classification from Mammograms
 
-This project implements a Convolutional Neural Network (CNN) to classify mammogram images into one of four breast density categories: **A, B, C, D**. It utilizes the MIAS mammographic dataset, preprocessed and converted into RGB images for deep learning tasks.
-
 ---
 
 ## Dataset
